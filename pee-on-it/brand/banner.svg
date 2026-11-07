@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 2560 1440" width="2560" height="1440">
+  <title>Pee on It — channel banner</title>
+  <rect width="2560" height="1440" fill="#111111"/>
+  <!-- diagonal yellow stripes -->
+  <g fill="#FFD60A" opacity="0.08">
+    <polygon points="0,0 300,0 0,300"/>
+    <polygon points="2560,1440 2260,1440 2560,1140"/>
+  </g>
+  <!-- drips along the top -->
+  <g fill="#FFD60A">
+    <rect x="0" y="0" width="2560" height="40"/>
+    <path d="M200 40 v60 a22 22 0 0 0 44 0 v-60 z"/>
+    <path d="M620 40 v110 a22 22 0 0 0 44 0 v-110 z"/>
+    <path d="M1100 40 v40 a22 22 0 0 0 44 0 v-40 z"/>
+    <path d="M1500 40 v90 a22 22 0 0 0 44 0 v-90 z"/>
+    <path d="M1980 40 v70 a22 22 0 0 0 44 0 v-70 z"/>
+    <path d="M2340 40 v120 a22 22 0 0 0 44 0 v-120 z"/>
+  </g>
+  <!-- safe area for all devices: 1546 x 423, centered -->
+  <rect x="507" y="508.5" width="1546" height="423" fill="none" stroke="#3A86FF" stroke-width="2" stroke-dasharray="12 10" opacity="0.35"/>
+  <!-- droplet mark -->
+  <path d="M690 560 C690 560 610 670 610 730 C610 778 646 812 690 812 C734 812 770 778 770 730 C770 670 690 560 690 560 Z" fill="#FFD60A"/>
+  <circle cx="672" cy="728" r="10" fill="#111111"/>
+  <path d="M700 728 Q712 720 724 728" fill="none" stroke="#111111" stroke-width="7" stroke-linecap="round"/>
+  <path d="M668 765 Q695 782 722 762" fill="none" stroke="#111111" stroke-width="7" stroke-linecap="round"/>
+  <!-- text -->
+  <text x="810" y="700" font-family="Anton, 'Bebas Neue', Impact, sans-serif" font-size="150" fill="#F8F8F2" letter-spacing="6">PEE ON IT</text>
+  <text x="814" y="790" font-family="Anton, 'Bebas Neue', Impact, sans-serif" font-size="58" fill="#FFD60A" letter-spacing="3">IF IT'S OVERHYPED, WE PEE ON IT.</text>
+  <text x="814" y="860" font-family="Inter, Arial, sans-serif" font-size="38" fill="#F8F8F2" opacity="0.75">New verdict every Thursday</text>
+</svg>

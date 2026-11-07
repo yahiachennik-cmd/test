@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 800" width="800" height="800">
+  <title>Pee on It — profile logo</title>
+  <rect width="800" height="800" fill="#111111"/>
+  <!-- droplet -->
+  <path d="M400 110 C400 110 210 360 210 500 C210 610 295 690 400 690 C505 690 590 610 590 500 C590 360 400 110 400 110 Z"
+        fill="#FFD60A" stroke="#F8F8F2" stroke-width="14"/>
+  <!-- shine -->
+  <path d="M300 430 C295 470 300 520 325 555" fill="none" stroke="#FFF3A3" stroke-width="22" stroke-linecap="round"/>
+  <!-- eyes: one squinting -->
+  <circle cx="345" cy="480" r="26" fill="#111111"/>
+  <path d="M430 482 Q460 462 490 482" fill="none" stroke="#111111" stroke-width="16" stroke-linecap="round"/>
+  <!-- smirk -->
+  <path d="M340 570 Q410 615 480 560" fill="none" stroke="#111111" stroke-width="16" stroke-linecap="round"/>
+  <!-- wordmark -->
+  <text x="400" y="770" text-anchor="middle" font-family="Anton, 'Bebas Neue', Impact, sans-serif"
+        font-size="74" fill="#F8F8F2" letter-spacing="4">PEE ON IT</text>
+</svg>
