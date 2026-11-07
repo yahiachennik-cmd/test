@@ -1,16 +1,16 @@
-# Brand Guide: Pee on It
+# Brand Guide: Piss on It
 
 ## Name
 
-**Pee on It** ("pee" as in piss).
+**Piss on It** ("piss" as in piss).
 
-- Always write it **Pee on It**: capital P, capital I, lowercase "on".
+- Always write it **Piss on It**: capital P, capital I, lowercase "on".
 - Short form: **POI**. Use it in hashtags and in the thumbnail corner badge.
-- Never "Peace on It". If someone mishears it, the logo's droplet fixes that.
+- Never "Peace on It" and never "Pee on It". It is **Piss** (P-I-S-S).
 
 ## Taglines (pick one, rotate the others)
 
-1. **"If it's overhyped, we pee on it."** (primary)
+1. **"If it's overhyped, we piss on it."** (primary)
 2. "Honest reviews. Zero bladder control."
 3. "Somebody had to."
 4. "Hype goes in. The truth comes out."
@@ -35,13 +35,13 @@ Honest, funny takedowns of overhyped stuff, for people who are sick of sponsored
 **Recurring lines:**
 - Open: *"Today's victim: ___. Let's see if it deserves the stream."*
 - Before the verdict: *"Alright. Zipper down."*
-- Sign-off: *"Stay hydrated. Stay honest. Pee on it."*
+- Sign-off: *"Stay hydrated. Stay honest. Piss on it."*
 
 ## Verdict system
 
 | Verdict | Meaning | On-screen graphic |
 |---|---|---|
-| 💦 **PEE ON IT** | Overhyped or overpriced. Skip it. | Yellow droplet stamp |
+| 💦 **PISS ON IT** | Overhyped or overpriced. Skip it. | Yellow droplet stamp |
 | 🧻 **FLUSH IT** | Actively bad, a scam, or harmful | Toilet-flush swirl animation |
 | 🏆 **HOLD IT** | Actually good. Respect earned. | Gold "HELD" seal |
 
@@ -67,7 +67,7 @@ Thumbnails: yellow or black backgrounds, with red reserved for the verdict stamp
 
 ## Logo
 
-- The mark is a **yellow droplet with a cheeky face**, and the wordmark is "PEE ON IT".
+- The mark is a **yellow droplet with a cheeky face**, and the wordmark is "PISS ON IT".
 - Profile picture: the droplet only, on black.
 - Starter files: `logo.svg` and `banner.svg` in this folder.
 

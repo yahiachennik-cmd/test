@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 2560 1440" width="2560" height="1440">
-  <title>Pee on It — channel banner</title>
+  <title>Piss on It — channel banner</title>
   <rect width="2560" height="1440" fill="#111111"/>
   <!-- diagonal yellow stripes -->
   <g fill="#FFD60A" opacity="0.08">
@@ -24,7 +24,7 @@
   <path d="M700 728 Q712 720 724 728" fill="none" stroke="#111111" stroke-width="7" stroke-linecap="round"/>
   <path d="M668 765 Q695 782 722 762" fill="none" stroke="#111111" stroke-width="7" stroke-linecap="round"/>
   <!-- text -->
-  <text x="810" y="700" font-family="Anton, 'Bebas Neue', Impact, sans-serif" font-size="150" fill="#F8F8F2" letter-spacing="6">PEE ON IT</text>
-  <text x="814" y="790" font-family="Anton, 'Bebas Neue', Impact, sans-serif" font-size="58" fill="#FFD60A" letter-spacing="3">IF IT'S OVERHYPED, WE PEE ON IT.</text>
+  <text x="810" y="700" font-family="Anton, 'Bebas Neue', Impact, sans-serif" font-size="150" fill="#F8F8F2" letter-spacing="6">PISS ON IT</text>
+  <text x="814" y="790" font-family="Anton, 'Bebas Neue', Impact, sans-serif" font-size="58" fill="#FFD60A" letter-spacing="3">IF IT'S OVERHYPED, WE PISS ON IT.</text>
   <text x="814" y="860" font-family="Inter, Arial, sans-serif" font-size="38" fill="#F8F8F2" opacity="0.75">New verdict every Thursday</text>
 </svg>

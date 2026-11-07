@@ -11,7 +11,7 @@
 - **Left:** the bottle, glowing, tilted 10°
 - **Right:** host side-eye with a phone notification popping out of the bottle
 - **Text (Anton, black):** "$80 FOR WATER?"
-- **Bottom right:** a red verdict stamp "PEE ON IT", or "???" for the test version
+- **Bottom right:** a red verdict stamp "PISS ON IT", or "???" for the test version
 - **Corner:** POI droplet badge
 
 ## Shorts from this episode

@@ -3,7 +3,7 @@
 **Victim:** smart water bottles (the ones that glow, track your sips, and send notifications)
 **Price range:** about $50–$100 *(check current prices before filming)*
 **Target length:** 9–10 min
-**Planned verdict:** 💦 PEE ON IT (Bladder Meter 8/10). Change it if the test surprises you.
+**Planned verdict:** 💦 PISS ON IT (Bladder Meter 8/10). Change it if the test surprises you.
 
 > ⚠️ Lines marked **[VERIFY]** are placeholders. Replace them with real numbers from your own test and the brand's own website before filming. Don't publish unverified claims.
 
@@ -62,13 +62,13 @@ They're everywhere: **[VERIFY: a social proof stat, e.g. Amazon reviews or a cel
 
 *(Stream sound effect. Verdict stamp slams onto the screen.)*
 
-💦 **PEE ON IT.** Bladder Meter: **8/10.**
+💦 **PISS ON IT.** Bladder Meter: **8/10.**
 
 **HOST:** It's a **[VERIFY: $__]** water bottle that does what a free alarm and a $10 bottle already do, and then asks for your location. If you really want help remembering to drink, set a reminder and keep the money.
 
 ## 9:15 | Outro
-**HOST:** What should I pee on next? Tell me in the comments. The best suggestion gets its own episode.
+**HOST:** What should I piss on next? Tell me in the comments. The best suggestion gets its own episode.
 
-Stay hydrated. Stay honest. Pee on it.
+Stay hydrated. Stay honest. Piss on it.
 
 🎬 *End screen.*

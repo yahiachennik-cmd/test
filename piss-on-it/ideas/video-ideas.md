@@ -10,7 +10,7 @@ Legend: 🔍 high search demand · 🔥 trend-driven (do it soon) · 🏆 likely
 5. 🔍 "Smart" rings: do they know anything?
 6. Weighted everything: blankets, hoodies, and even a weighted spoon
 7. 🔍 Mushroom coffee: magic or marketing?
-8. Celebrity energy drinks, ranked and peed on
+8. Celebrity energy drinks, ranked and pissed on
 9. 🔥 Stanley cup clones: the whole cult explained
 10. Posture correctors from Amazon
 11. 🔍 $200 "ergonomic" pillows vs a $15 pillow
@@ -54,8 +54,8 @@ Legend: 🔍 high search demand · 🔥 trend-driven (do it soon) · 🏆 likely
 
 ## Hold It / formats (6)
 45. 🏆 Things under $20 that actually changed my life (no, really)
-46. Pee or Pass: 10 viral products in 15 minutes
-47. Pee or Pass: subscribers' submissions
-48. I let you pick what I pee on: community poll episode
-49. Re-testing products I peed on a year ago: was I wrong?
+46. Piss or Pass: 10 viral products in 15 minutes
+47. Piss or Pass: subscribers' submissions
+48. I let you pick what I piss on: community poll episode
+49. Re-testing products I pissed on a year ago: was I wrong?
 50. 🏆 The anti-haul: things I'm *not* buying this year

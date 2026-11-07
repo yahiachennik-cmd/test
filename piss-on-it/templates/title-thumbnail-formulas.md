@@ -11,10 +11,10 @@ Keep titles under about 60 characters, with the searchable keyword early.
 | `I Bought [Number] [Category] From TikTok` | I Bought 10 TikTok Shop Gadgets. Ouch. |
 | `$[Cheap] vs $[Expensive] [Product]` | $30 vs $300 Massage Gun |
 | `The [Product] Lie` | The Smart Ring Lie |
-| `Somebody Had to Pee on [Thing]` | Somebody Had to Pee on 75 Hard |
+| `Somebody Had to Piss on [Thing]` | Somebody Had to Piss on 75 Hard |
 
 **Rules:**
-- Don't put "Pee on It" in every title. The brand lives in the thumbnail and channel name, and search terms matter more in titles.
+- Don't put "Piss on It" in every title. The brand lives in the thumbnail and channel name, and search terms matter more in titles.
 - Use crude words in the title rarely. They can hurt ad suitability.
 
 ## Thumbnail system

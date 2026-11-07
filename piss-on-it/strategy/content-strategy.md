@@ -24,13 +24,13 @@ Hold It episodes matter. They prove the channel is honest and not just negative.
 One subject: Hook → What it promises → The test → The fine print → Verdict.
 Structure: `templates/script-template.md`.
 
-### 2. Pee or Pass (long form, 12–18 minutes), monthly
+### 2. Piss or Pass (long form, 12–18 minutes), monthly
 Ten quick items in a row, about 60–90 seconds each, each with a verdict. Easy to binge.
 
 ### 3. Shorts (under 60 seconds), 4–5 per week
 - 30-second verdicts cut from the long videos.
-- "Pee on It in 30 seconds": the price, the claim and the verdict.
-- Answering comments: "You asked me to pee on ___."
+- "Piss on It in 30 seconds": the price, the claim and the verdict.
+- Answering comments: "You asked me to piss on ___."
 
 ## Upload schedule
 
@@ -40,13 +40,13 @@ Ten quick items in a row, about 60–90 seconds each, each with a verdict. Easy 
 | Tuesday | Short |
 | **Thursday, 5pm ET** | **Main Verdict (long form)** |
 | Friday | Short (cut from Thursday's video) |
-| Sunday | Short or community poll: "What should I pee on next?" |
+| Sunday | Short or community poll: "What should I piss on next?" |
 
 ## Growth plan (first 90 days)
 
 1. **Days 1–30:** Publish 4 long videos and 16 Shorts. Target searchable topics: "is ___ worth it", "___ review", "___ scam".
 2. **Days 31–60:** Double down on the 2 videos with the best retention. Start the "Submit a victim" comment loop and pin a comment on every video.
-3. **Days 61–90:** Collaborate or react to a mid-size skeptic creator. Launch the first Pee or Pass compilation.
+3. **Days 61–90:** Collaborate or react to a mid-size skeptic creator. Launch the first Piss or Pass compilation.
 
 **Metrics that matter:**
 - Click-through rate above 6% (titles and thumbnails)
@@ -64,6 +64,7 @@ Ten quick items in a row, about 60–90 seconds each, each with a verdict. Easy 
 ## Policy and safety notes (important)
 
 - **Advertiser-friendly content:** heavy crude language or gross-out imagery in the first 30 seconds or in the thumbnail can mean limited ads (a yellow icon). Keep the toilet humor **verbal and cartoonish**. No real bodily fluids, and keep strong swearing out of the first 30 seconds.
+- **The word "piss":** YouTube counts it as mild profanity. Using it in the channel name is fine, but put it in the title or the first seconds of a video only when it helps, and watch for limited-ads icons.
 - **Defamation:** state facts with sources ("their own website says…") and label opinions as opinions ("in my opinion, this is a rip-off"). Never accuse a named person of a crime without evidence.
 - **Fair use:** when showing ads or clips from other creators, keep them short, comment on them, and transform them.
 - **Disclosure:** if a product was sent for free, say so on screen and tick YouTube's "paid promotion" box when that applies.

@@ -1,14 +1,14 @@
-# Pee on It
+# Piss on It
 
-> **"Pee" as in piss. Not "peace."** We take whatever the internet is overhyping and pee all over it.
+> **Piss, P-I-S-S. Not "peace."** We take whatever the internet is overhyping and piss all over it.
 
-A standalone project folder for **Pee on It**, an English-language YouTube channel made for English-speaking viewers (US / UK / CA / AU).
+A standalone project folder for **Piss on It**, an English-language YouTube channel made for English-speaking viewers (US / UK / CA / AU).
 
 ## The concept
 
-The internet is full of overpriced gadgets, dumb trends, fake gurus and "life-changing" products. **Pee on It** picks one thing per episode, tests it or digs into it honestly, then delivers a verdict:
+The internet is full of overpriced gadgets, dumb trends, fake gurus and "life-changing" products. **Piss on It** picks one thing per episode, tests it or digs into it honestly, then delivers a verdict:
 
-- 💦 **Pee on It** – overhyped, overpriced, or pointless. It gets the stream.
+- 💦 **Piss on It** – overhyped, overpriced, or pointless. It gets the stream.
 - 🧻 **Flush It** – so bad it shouldn't exist.
 - 🏆 **Hold It** – rare: it actually earned respect. We hold it in.
 

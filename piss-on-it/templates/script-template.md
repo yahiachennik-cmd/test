@@ -31,14 +31,14 @@
 
 ## 8:30–9:30 | Verdict
 - *"Alright. Zipper down."*
-- 💦 **PEE ON IT** / 🧻 **FLUSH IT** / 🏆 **HOLD IT**
+- 💦 **PISS ON IT** / 🧻 **FLUSH IT** / 🏆 **HOLD IT**
 - Bladder Meter: __ / 10
 - One-sentence summary that a viewer could quote in the comments.
 
 ## 9:30–10:00 | Outro
-- *"What should I pee on next? Comments."*
+- *"What should I piss on next? Comments."*
 - End screen: the best-performing previous video and a subscribe button.
-- *"Stay hydrated. Stay honest. Pee on it."*
+- *"Stay hydrated. Stay honest. Piss on it."*
 
 ---
 
